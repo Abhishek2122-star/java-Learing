@@ -27,16 +27,23 @@
 
 // the realtime example with the using of if else condition for checking the age 
 
-public class main{
-    static void checkAge(int age){
-        if (age > 18){
-            System.out.println("eligeble for vote");
-        }
-        else{
-            System.out.println("not eligeble");
-        }
+// public class main{
+//     static void checkAge(int age){
+//         if (age > 18){
+//             System.out.println("eligeble for vote");
+//         }
+//         else{
+//             System.out.println("not eligeble");
+//         }
+//     }
+//     public static void main(String[] args) {
+//         checkAge(17);
+//     }
+// };
+
+
+public class Main{
+    public static void main (String[]args){
+        System.out.println("hello");
     }
-    public static void main(String[] args) {
-        checkAge(17);
-    }
-};
+}

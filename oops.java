@@ -42,12 +42,3 @@
 
 // for creating multiple class in single code
 
-public class oops{
-    int x = 5 ;
-}
-class Student {
-    public static void main(String[] args) {
-        oops concept = new oops();
-        System.out.println(concept.x);
-    }
-}
